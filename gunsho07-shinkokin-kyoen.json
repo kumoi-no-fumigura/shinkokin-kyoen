@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shinkokin-kyoen",
  "yomi": "しんこきんわかしゅうきょうえんわか",
  "category": "私撰集",
- "description": null,
+ "description": {
+  "kind": "竟宴和歌",
+  "era": "元久2年（1205）3月26日",
+  "author": "後鳥羽院ほか",
+  "desc": "『新古今集』の完成を祝う竟宴の歌。後鳥羽院の御製に続き、良経・頼実・通光から秀能まで、懐紙の寸法とともに一首ずつ記す。"
+ },
  "editions": [
   {
    "pid": "1879496",
@@ -82,6 +87,6 @@
   "poems": 1,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:37:59+09:00"
+  "updated_at": "2026-10-29T23:55:04+09:00"
  }
 }
